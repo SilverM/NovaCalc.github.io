@@ -97,9 +97,8 @@ Recommended sizes: iPhone 6.7″, 6.5″, 5.5″. Use Xcode Previews or simulato
 
 ## Support
 
-- Support Page: https://your-support-url (GitHub Pages / Notion / Google Sites)
-- Email: support@yourdomain.com
-
+- Email: audioanalyticsauthority@gmail.com
+  
 ## Privacy
 
 NovaCalc does not collect personal data. If this changes, we’ll update this document and our App Store listing.
